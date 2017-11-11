@@ -66,3 +66,7 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
