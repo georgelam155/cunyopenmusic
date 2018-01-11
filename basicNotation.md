@@ -1,8 +1,3 @@
----
-layout: post
-title: Basic notation
----
-
 ### Notes
 
 When written on a staff, a note indicates a pitch and rhythmic value. The notation consists of a *notehead* (either empty or filled in), and optionally can include a *stem*, *beam*, *dot*, or *flag*. 
