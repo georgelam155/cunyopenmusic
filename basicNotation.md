@@ -16,7 +16,11 @@ Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
 <img src="http://openmusictheory.com/Graphics/clefs.png" width="50%" height="50%">
 
-[Take a look at this exercise](https://www.musictheory.net/exercises/note/b8tyryyynybyyy) How are notes on the treble clef related to their "letter" names?
+[Take a look at this exercise.](https://www.musictheory.net/exercises/note/b8tyryyynybyyy) How are notes on the treble clef related to their "letter" names?
+
+[Now take a look at this one.](https://www.musictheory.net/exercises/note/btsyryyynyyyyy) Play around here and test things out. How do these lines affect the letter names?
+
+**Recap** How do we name the notes on a staff?
 
 ### Grand staff
 
