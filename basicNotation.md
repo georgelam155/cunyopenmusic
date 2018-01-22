@@ -2,7 +2,7 @@
 
 When written on a staff, a note indicates a pitch and rhythmic value. The notation consists of a *notehead* (either empty or filled in), and optionally can include a *stem*, *beam*, *dot*, or *flag*. 
 
-<img src="https://github.com/georgelam155/openmusictheory.github.io/blob/master/Graphics/noteillustration.png" width="50%">
+<img src="http://openmusictheory.com/Graphics/noteillustration.png" width="50%">
 
 ### Staff
 
@@ -14,7 +14,7 @@ Notes *still* can't convey their pitch information if the staff doesn't include 
 
 Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
-<img src="https://github.com/georgelam155/openmusictheory.github.io/blob/master/Graphics/clefs.png" width="50%" height="50%">
+<img src="http://openmusictheory.com/Graphics/clefs.png" width="50%" height="50%">
 
 ### Grand staff
 
