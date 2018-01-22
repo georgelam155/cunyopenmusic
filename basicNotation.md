@@ -16,6 +16,8 @@ Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
 <img src="http://openmusictheory.com/Graphics/clefs.png" width="50%" height="50%">
 
+[Take a look at this exercise](https://www.musictheory.net/exercises/note/b8tyryyynybyyy) How are notes on the treble clef related to their "letter" names?
+
 ### Grand staff
 
 The grand staff consists of two staves, one that uses a treble clef, and one that uses a bass clef. The staves are connected by a curly brace. Grand staves are used frequently for notating piano music and other polyphonic instruments. 
