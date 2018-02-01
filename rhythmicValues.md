@@ -16,12 +16,12 @@ Dots and ties allow for basic durations to be lengthened. A dot occurs after a p
 
 Multiple dots can be added to a duration. Subsequent dots add half the duration of the previous dot. For example, a quarter note with two dots would be equivalent in duration to a quarter, eighth, and sixteenth note. 
 
-<a href="http://openmusictheory.com/Graphics/dots.png"><img src="Graphics/dots.png" width="50%"></a>
+<a href="http://openmusictheory.com/Graphics/dots.png"><img src="http://openmusictheory.com/Graphics/dots.png" width="50%"></a>
 
 A *tie* lengthens a duration by connecting two adjacent identical pitches. Ties are used to either sustain a pitch beyond the length of a single measure, or to make a particular rhythmic grouping in a measure more clear. 
 
 In the example below, the duration of the first pitch is longer than a single measure, so it is represented by tying the dotted half note, which lasts the full measure, to the first beat of the subsequent measure. 
 
-<a href="http://openmusictheory.com/Graphics/ties.png"><img src="Graphics/ties.png" width="50%"></a>
+<a href="http://openmusictheory.com/Graphics/ties.png"><img src="http://openmusictheory.com/Graphics/ties.png" width="50%"></a>
 
 
