@@ -66,6 +66,7 @@ Following are the musical examples referenced in the above videos:
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"The Tourist," Radiohead</p>
 
+
 ### Examples in simple duple meter
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">Symphony No. 5, Movement IV., Ludwig van Beethoven</p>
@@ -80,6 +81,7 @@ Following are the musical examples referenced in the above videos:
 <iframe src="https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">String Quartet No. 15 in D Minor, K. 421, Movement III., Wolfgang A. Mozart</p>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6T5JlpcvC0RbPpexl8xXMI" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">Symphony No. 90 in C Major, Hob: I:90, Movement III., Joseph Haydn</p>
+
 
 ### Examples in simple quadruple meter
 
