@@ -2,8 +2,8 @@
 ### 1.10 Meter
 
 Meter describes the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified with two designation types:
-* Simple or Compound meters
-* Duple, Triple, or Quadruple meters
+* Simple or Compound
+* Duple, Triple, or Quadruple
 
 Simple and compound classifications result from the relationship between the counting pulse and the pulses that are *faster* than the counting pulse. In other words, it is a question of *division*: does each beat divide into two equal parts, or three equal parts. Meters that divide the beat into two equal parts are *simple meters*; meters that divide the beat into three equal parts are *compound meters*. 
 
