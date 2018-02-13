@@ -1,8 +1,3 @@
----
-layout: post
-title: Pitches and octave designations
----
-
 ### 2.1 The Keyboard ###
 
 The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
