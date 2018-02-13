@@ -35,19 +35,3 @@ When the music's range exceeds what can be written on the staff, extra lines are
 <img src ="http://openmusictheory.com/Graphics/ledgerLines.png" width="80%" height="80%">
 
 [Now take a look at this exercise.](https://www.musictheory.net/exercises/note/btsyryyynyyyyy) Play around here and test things out. How do these ledger lines affect the letter names?
-
-### 1.6 Accidentals
-
-Accidentals are used to indicate when a pitch has been raised or lowered. They are written to the *left* of the pitch. 
-
-- When you lower one of the white notes of the piano by a semitone, you add a flat. 
-- When you raise one of the white notes of the piano by a semitone, you add a sharp.
-- When you raise a note that is already flat by a semitone, you add a natural.
-- When you lower a note that is already flat by a semitone, you add a double flat. 
-- When you raise a note that is already sharp by a semitone, you add a double sharp.
-
-The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.
-
-<img src ="http://openmusictheory.com/Graphics/accidentals.png" width="50%" height="50%">
-
-
