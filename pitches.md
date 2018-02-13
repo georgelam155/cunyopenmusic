@@ -3,43 +3,42 @@ layout: post
 title: Pitches and octave designations
 ---
 
-### The Keyboard ###
+### 2.1 The Keyboard ###
 
 The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
 
-![][keyboard]
+<img src ="http://openmusictheory.com/Graphics/keyboardlayout-small.png">
 
-### Enharmonic equivalence ###
+### 2.2 Half Steps and Whole Steps
+
+One of the reasons why we use the keyboard is to help you visualize how pitches are organized on the *chromatic scale*, a series of pitches arranged by ascending or descending half steps.
+
+#### What's a half step?
+A half step describes the distance between a key and the *next adjacent key* on the piano. The distance between a white key and its next adjacent key is a half step. However, there are two pairs of white keys on the piano that have no black keys in between them (E and F, B and C), and these are half steps as well.
+
+#### What's a whole step?
+A whole step simply describes two half steps. For example, the distance between C and D is a whole step, because it includes two half steps (C to C#, C# to D).
+
+### 2.3 Accidentals
+
+Accidentals are used to indicate when a pitch has been raised or lowered by one or two half steps. When described as as words, they are written *after* the note name (e.g. "C-sharp"). When they are placed next to a note on a staff, they are written *before* the note.
+
+#### Lowering Pitches
+- When you lower one of the white notes of the piano by a half step, you add a flat. 
+- When you lower a note that is already flat by a half step, you add a double flat. 
+- When you lower a note that is already sharp by a half step, you add a natural.
+
+### Raising Pitches
+- When you raise one of the white notes of the piano by a half step, you add a sharp.
+- When you raise a note that is already flat by a half step, you add a natural.
+- When you raise a note that is already sharp by a half step, you add a double sharp.
+
+The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.
+
+<img src ="http://openmusictheory.com/Graphics/accidentals.png" width="50%" height="50%">
+
+### 2.4 Enharmonic equivalence ###
 
 Notice that some of the keys have two names. When two pitch classes share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each key could have several names (the note C could also be considered D&#9837;&#9837;, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
 
-### Octave Designation ###
-
-When specifying a particular pitch precisely, we also need to know the *register*. In fact, if all you have is C-sharp or B-flat, you do not have a *pitch*, you have a *pitch-class*. A pitch-class plus a register together designate a specific pitch. 
-
-We will follow the International Standards Organization (ISO) system for register designations. In that system, middle C (the first ledger line above the bass staff or the first ledger line below the treble staff) is C4. An octave higher than middle C is C5, and an octave lower than middle C is C3. 
-
-The tricky bit about this system is that the octave starts on C and ends on B. So an ascending scale from middle C contains the following pitch designations: 
-
-![][C4toC5]
-
-And a descending scale from middle C contains the following pitch designations: 
-
-![][C4toC3]
-
-Pitches on the alto staff are as follows: 
-
-![][F3toG4]
-
-Pitches on the tenor staff are as follows:
-
-<a href="Graphics/pitchesTenor.png"><img src="Graphics/pitchesTenor.png" width="70%"></a>
-
-Any accidentals follow the octave designation of the natural pitch with the same generic name. Thus a half step below C4 is C-flat4 (even though it sounds the same as B3), and a half step above C4 is C-sharp4. 
-
-Note that a complete designation contains both the pitch-class name (a letter name plus an optional sharp or flat) and the register (the ISO number indicating the octave in which the pitch is found). Unless both are present, you do not have the full designation of a specific pitch.
-
-[C4toC5]: {{ site.url }}/Graphics/C4toC5.png
-[C4toC3]: {{ site.url }}/Graphics/C4toC3.png
-[F3toG4]: {{ site.url }}/Graphics/F3toG4-alto.png
-[keyboard]: {{ site.url }}/Graphics/keyboardlayout-small.png
+<img src ="http://openmusictheory.com/Graphics/keyboardlayout-small.png">
