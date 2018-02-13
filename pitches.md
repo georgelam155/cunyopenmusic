@@ -23,7 +23,7 @@ Accidentals are used to indicate when a pitch has been raised or lowered by one 
 - When you lower a note that is already flat by a half step, you add a double flat. 
 - When you lower a note that is already sharp by a half step, you add a natural.
 
-### Raising Pitches
+#### Raising Pitches
 - When you raise one of the white notes of the piano by a half step, you add a sharp.
 - When you raise a note that is already flat by a half step, you add a natural.
 - When you raise a note that is already sharp by a half step, you add a double sharp.
