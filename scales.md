@@ -32,5 +32,13 @@ Scale degrees are labeled with Arabic numerals and carets (^). The illustration 
 
 <a href="http://openmusictheory.com/Graphics/sdsf.png"><img src="http://openmusictheory.com/Graphics/sdsf.png"></a>
 
+### 2.9 Writing the Major Scale ###
 
+We can create a major scale starting with any note on the piano keyboard by simply following the pattern of whole steps and half steps.
+
+To write a major scale:
+
+1. Start with the first pitch (also called the “Tonic”).
+2. Write out the letter names in order by using the musical alphabet. Use all of the letters and end with the tonic again.
+3. Starting with the tonic, evaluate the interval between each succeeding pair of notes (e.g. C-D, D-E, E-F), and use either sharps or flats to adjust the notes so that they match the W-W-H-W-W-H pattern.
 
