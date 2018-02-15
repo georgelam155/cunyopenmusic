@@ -1,14 +1,14 @@
-## The Scale
+### 2.5 The Scale
 
 A *scale* is a succession of pitches ascending or descending in steps. There are two types of steps: *half steps* and *whole steps*. A half step (H) consists of two adjacent pitches on the keyboard. A whole step (W) consists of two half steps.  
 
-## The Chromatic Scale ##
+#### 2.6 The Chromatic Scale ####
 
 The chromatic scale consists entirely of half steps, and uses every pitch on the keyboard within a single octave. Here is the chromatic scale that spans the pitches C4 through C5.
 
 <a href="http://openmusictheory.com/Graphics/chromaticscale.png"><img src="http://openmusictheory.com/Graphics/chromaticscale.png"></a>
 
-## The Major Scale ##
+#### 2.7 The Major Scale ####
 
 A major scale, a sound with which you are undoubtedly familiar, consists of a pattern of whole steps and half steps in a given pattern:
 
@@ -22,7 +22,7 @@ Here is the D major scale. It is called the "D major scale" because the pitch D 
 
 <a href="http://openmusictheory.com/Graphics/majorscale.png"><img src="http://openmusictheory.com/Graphics/majorscale.png"></a>
 
-## Scale degrees and solfège ##
+#### 2.8 Scale degrees and solfège ####
 
 While ISO notation (e.g. C4, D4) allows us to label a pitch in its specific register, it is often useful to know where that pitch fits within a given scale. For example, the pitch D is the first (and last) note of the D-major scale. The pitch A is the fifth note of the D-major scale. When described in this way, we call the notes **scale degrees**, because they're placed in context of a specific scale.
 
