@@ -1,5 +1,3 @@
-## Standard 1: Fundamentals of Pitch and Rhythm
-
 ### 1.1 Notes
 
 In musical notation, a note indicates a pitch and rhythmic value. A note consists of a *notehead* (either empty or filled in), and optionally can include a *stem*, *beam*, *dot*, or *flag*. 
