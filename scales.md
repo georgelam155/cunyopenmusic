@@ -43,4 +43,4 @@ To write a major scale:
 3. Starting with the first tonic, evaluate the interval between each succeeding pair of notes (e.g. C-D, D-E, E-F), and use either sharps or flats to adjust the notes so that they match the **W-W-H**-W-**W-W-H** pattern.
 4. If you successfully completed the above steps, if you needed to add accidentals, you should have used either sharps or flats, but not both. In addition, the 7th scale degree will always be a half-step away from the **tonic** that ends the scale.
 
-[Try your hand at writing major scales.] (http://teoria.com/en/exercises/sc.php)
+[Try your hand at writing major scales.](http://teoria.com/en/exercises/sc.php)
