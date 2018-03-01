@@ -30,7 +30,9 @@ Before we look at the interval pattern for a natural minor scale, take a look at
 - c minor is the **relative minor** of E-flat major
 - E-flat major is the **relative major** of c minor
 
-To find the notes of a natural minor scale, we'll first need to find its relative major. To do this:
+What is the relationship between the relatives? Notice that the relative minor will always be a **minor 3rd** below the relative major. We can use this information as we find the notes of a natural minor scale.
+
+Since the scales for both a major scale and its relative mionor share the same notes, to find the notes of a minor scale, we can start by finding its relative major. To do this:
 1. Note the *tonic* of the minor scale that you would like to write. (e.g. C)
 2. Find the **minor 3rd** above. This is the **relative major** of this minor scale. (e.g. E-flat)
 3. Write out the notes of this major scale by using the interval pattern W-W-H-W-W-W-H.
