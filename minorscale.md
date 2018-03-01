@@ -30,14 +30,16 @@ Before we look at the interval pattern for a natural minor scale, take a look at
 - c minor is the **relative minor** of E-flat major
 - E-flat major is the **relative major** of c minor
 
-Hence, if we can figure out how to derive the relative minor of a given major key, we can then easily find the notes of that minor scale. To find the relative minor of a given major key, follow these steps.
-1. Note the *tonic* of the major key. (In this case, it's E-flat).
-2. Write out the notes of the major scale.
-3. Find the 6th scale degree (e.g. the 6th note) of this scale. (In this case, it's C). This is the *tonic* of the relative minor of this scale.
+To find the notes of a natural minor scale, we'll first need to find its relative major. To do this:
+1. Note the *tonic* of the minor scale that you would like to write. (e.g. C)
+2. Find the **minor 3rd** above. This is the **relative major** of this minor scale. (e.g. E-flat)
+3. Write out the notes of this major scale by using the interval pattern W-W-H-W-W-W-H.
+4. Re-write the notes by starting with the 6th scale degree and ending with the 5th. You have just written a natural minor scale!
 
-But what if we want to find the notes of a minor scale? We'll first need to find its **relative major**. To do this:
-1. Note the *tonic* of the minor scale that you would like to write.
-2. Find the **minor 3rd** above.
-3. This is the *relative major* of this scale.
+On the other hand, if we are start with a major key, and would like to find its relative minor:
+1. Note the *tonic* of the given major key. (e.g. E-flat).
+2. Write out the notes of the major scale by using the interval pattern W-W-H-W-W-W-H.
+3. Find the 6th scale degree (e.g. the 6th note) of this scale. (In this case, it's C). This is the **relative minor** of this major scale.
+4. Re-write the notes by starting with the 6th scale degree and ending with the 5th. You have just written a natural minor scale!
 
 By following the steps above, you'll see that the the natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W - H - W - W - H - W - W.
