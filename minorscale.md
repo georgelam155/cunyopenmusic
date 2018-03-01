@@ -34,10 +34,7 @@ What is the relationship between these relatives? Notice that the tonic of minor
 
 1. Write down the *tonic* of the minor scale that you would like to write. (e.g. "C" if you're looking the notes for c minor.)
 2. Find the **minor 3rd** above this note. This is the tonic of the **relative major**. (e.g. E-flat)
-3. Write out the notes of this major scale (e.g. E-flat) by using the interval pattern W-W-H-W-W-W-H.
-
-<iframe src="https://trinket.io/embed/music/8728f0a032" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+3. Write out the notes of this major scale (e.g. E-flat) by using the interval pattern W-W-H-W-W-W-H. <iframe src="https://trinket.io/embed/music/8728f0a032" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 4. Re-write the notes of the scale by starting with the 6th scale degree and ending with the 5th. You have just written a natural minor scale!
 
 By following the steps above, you'll see that the the natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W - H - W - W - H - W - W.
