@@ -8,11 +8,11 @@ Another scale with which you are likely very familiar is the **minor scale**. Th
 
 Here's the C major scale:
 
-<iframe src="https://trinket.io/embed/music/2b5139a67b" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/2b5139a67b" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 And here's the c minor scale:
 
-<iframe src="https://trinket.io/embed/music/f12b5df8b6" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/f12b5df8b6" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 The above minor scale is the most frequently used form of the minor scale from the Common Practice period, and is also known as the *aeolian mode* or the *natural minor scale*. We will refer to this scale with either of these names.
 
