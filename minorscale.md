@@ -24,6 +24,8 @@ Before we look at scales, let's add one more interval to our discussion. Recall 
 3. Go to the piano keyboard. Find the original note, and raise the pitch by three half steps.
 3. Describe this new pitch by using the letter name that is a third above the original note, using accidentals as necessary (e.g. E-flat).
 
+[Take a look at this exercise. Find the minor 3rd above the given note.](https://www.musictheory.net/exercises/interval-construction/b8ty9ybyyybyybybnyyyy)
+
 ### 3.3 Relative Major, Relative Minor
 
 Before we look at the interval pattern for a natural minor scale, take a look at the key signature for the c minor scale above. It consists of 3 flats, and you'll notice that it is also the key signature for E-flat major. Since both C minor and E-flat major share the same key signature, they both use the same notes. We call these two scales "relatives" of each other:
