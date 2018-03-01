@@ -26,9 +26,10 @@ Before we look at scales, let's add one more interval to our discussion. Recall 
 
 ### 3.3 Relative Major, Relative Minor
 
-Before we look at the interval pattern for a natural minor scale, take a look at the key signature for the c minor scale above. It consists of 3 flats, and is indeed the key signature for E-flat major. Since both C minor and E-flat major share the same key signature, they both use the same notes. We call these two scales "relatives" of each other:
+Before we look at the interval pattern for a natural minor scale, take a look at the key signature for the c minor scale above. It consists of 3 flats, and you'll notice that it is also the key signature for E-flat major. Since both C minor and E-flat major share the same key signature, they both use the same notes. We call these two scales "relatives" of each other:
 - c minor is the **relative minor** of E-flat major
 - E-flat major is the **relative major** of c minor
+
 
 What is the relationship between these relatives? Notice that the tonic of minor key will always be a **minor 3rd** below the tonic of its relative major. We can use this information to find the notes of a minor scale by first finding its relative major. To do this:
 
@@ -36,5 +37,6 @@ What is the relationship between these relatives? Notice that the tonic of minor
 2. Find the **minor 3rd** above this note. This is the tonic of the **relative major**. (e.g. E-flat)
 3. Write out the notes of this major scale (e.g. E-flat) by using the interval pattern W-W-H-W-W-W-H. <iframe src="https://trinket.io/embed/music/8728f0a032" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 4. Re-write the notes of the scale by starting with the 6th scale degree and ending with the 5th. You have just written a natural minor scale!
+
 
 By following the steps above, you'll see that the the natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W - H - W - W - H - W - W.
