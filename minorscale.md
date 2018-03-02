@@ -4,9 +4,9 @@
 
 Remember how we derived the major scale? It consisted of two identical tetrachords (W-W-H) connected together by an additional **W**hole step.
 
-Another scale with which you are likely very familiar is the **minor scale**. There are several different types of minor scales, but all of them include a special characteristic: the third note of the scale, when compared to the major scale, sounds a bit lower.
+Another scale with which you are likely very familiar is the **minor scale**. There are several different types of minor scales, but all of them include a special characteristic: the third note of the scale, when compared to the major scale, sounds a bit lower. 
 
-Here's the C major scale:
+Here's the C major scale: (Press the "play" button on the upper-left hand corner to hear what it sounds like.)
 
 <iframe src="https://trinket.io/embed/music/2b5139a67b" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
