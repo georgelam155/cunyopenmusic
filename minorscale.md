@@ -33,7 +33,7 @@ Take a look at the key signature for the c minor scale above. It consists of 3 f
 - E-flat major is the **relative major** of c minor
 
 
-What is the relationship between these relatives? Notice that the tonic of minor key will always be a **minor 3rd** below the tonic of its relative major. We can use this information to find the notes of a minor scale by first finding its relative major. To do this:
+What is the relationship between these relatives? Notice that the tonic of a natural minor scale will always be a **minor 3rd** below the tonic of its relative major. We can use this information to find the notes of a minor scale by first finding its relative major. To do this:
 
 1. Write down the *tonic* of the minor scale that you would like to write. (e.g. "C" if you're looking the notes for c minor.)
 2. Find the **minor 3rd** above this note. This is the tonic of the **relative major**. (e.g. E-flat)
