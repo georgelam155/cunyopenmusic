@@ -28,7 +28,7 @@ Before we look at scales, let's add one more interval to our discussion. Recall 
 
 ### 3.3 Relative Major, Relative Minor
 
-Before we look at the interval pattern for a natural minor scale, take a look at the key signature for the c minor scale above. It consists of 3 flats, and you'll notice that it is also the key signature for E-flat major. Since both C minor and E-flat major share the same key signature, they both use the same notes. We call these two scales "relatives" of each other:
+Take a look at the key signature for the c minor scale above. It consists of 3 flats, and you'll notice that it is also the key signature for E-flat major. Since both C minor and E-flat major share the same key signature, they both use the same notes. We call these two scales "relatives" of each other:
 - c minor is the **relative minor** of E-flat major
 - E-flat major is the **relative major** of c minor
 
