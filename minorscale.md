@@ -24,7 +24,7 @@ Before we look at scales, let's add one more interval to our discussion. Recall 
 3. Go to the piano keyboard. Find the original note, and raise the pitch by three half steps.
 3. Describe this new pitch by using the letter name that is a third above the original note, using accidentals as necessary (e.g. E-flat).
 
-[Take a look at this exercise. Find the minor 3rd above the given note.](https://www.musictheory.net/exercises/interval-construction/b8ty9ybyyybyybybnyyyy)
+[Take a look at this exercise. Find the minor 3rd above the given note.](https://www.musictheory.net/exercises/interval-construction/brwyrybyyybyybybbyyyn)
 
 ### 3.3 Relative Major, Relative Minor
 
