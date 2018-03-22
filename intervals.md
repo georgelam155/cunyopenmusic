@@ -28,23 +28,23 @@ There are five possible interval qualities:
 - minor (m)
 - diminished (d)
 
-To obtain an interval's quality, find both the generic interval and the chromatic interval. Then consult the following table to find the specific interval. 
+To obtain an interval's quality, find 1) the interval's *size* and 2) the number of half-steps between the two pitches. Then consult the following table to determine the interval's *quality*.
 
-|  | unis. | 2nd | 3rd | 4th | 5th | 6th | 7th | oct. |
+| Half-Steps | unis. | 2nd | 3rd | 4th | 5th | 6th | 7th | oct. |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| i0 | P1 | d2 |  |  |  |  |  |  |
-| i1 | A1 | m2 |  |  |  |  |  |  |
-| i2 |  | M2 | d3 |  |  |  |  |  |
-| i3 |  | A2 | m3 |  |  |  |  |  |
-| i4 |  |  | M3 | d4 |  |  |  |  |
-| i5 |  |  | A3 | P4 |  |  |  |  |
-| i6 |  |  |  | A4 | d5 |  |  |  |
-| i7 |  |  |  |  | P5 | d6 |  |  |
-| i8 |  |  |  |  | A5 | m6 |  |  |
-| i9 |  |  |  |  |  | M6 | d7 |  |
-| i10 |  |  |  |  |  | A6 | m7 |  |
-| i11 |  |  |  |  |  |  | M7 | d8 |
-| i12 |  |  |  |  |  |  | A7 | P8 |
+| 0 | P1 | d2 |  |  |  |  |  |  |
+| 1 | A1 | m2 |  |  |  |  |  |  |
+| 2 |  | M2 | d3 |  |  |  |  |  |
+| 3 |  | A2 | m3 |  |  |  |  |  |
+| 4 |  |  | M3 | d4 |  |  |  |  |
+| 5 |  |  | A3 | P4 |  |  |  |  |
+| 6 |  |  |  | A4 | d5 |  |  |  |
+| 7 |  |  |  |  | P5 | d6 |  |  |
+| 8 |  |  |  |  | A5 | m6 |  |  |
+| 9 |  |  |  |  |  | M6 | d7 |  |
+| 10 |  |  |  |  |  | A6 | m7 |  |
+| 11 |  |  |  |  |  |  | M7 | d8 |
+| 12 |  |  |  |  |  |  | A7 | P8 |
 
 
 
