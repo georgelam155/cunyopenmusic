@@ -1,19 +1,12 @@
----
-layout: post
-title: Intervals and dyads
----
+## 4.1 Intervals
 
 An *interval* is the distance between two pitches, usually measured as a number of steps on a scale.
 
 A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.
 
-Thus, the term *interval* regularly refers both to the distance between two pitches on a scale and to a dyad whose pitches are separated by that distance.
-
-### Chromatic intervals 
-
-The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
-
-![Chromatic steps from C4 to E4.][c4e4]
+Thus, the term *interval* regularly refers both to:
+1. The distance between two pitches on a scale, and;
+2. A dyad whose pitches are separated by that distance.
 
 ### Diatonic intervals 
 
@@ -53,6 +46,15 @@ To obtain an interval's quality, find both the generic interval and the chromati
 | i11 |  |  |  |  |  |  | M7 | d8 |
 | i12 |  |  |  |  |  |  | A7 | P8 |
 
+
+
+### 4.2 Chromatic Intervals 
+
+The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps between two pitches. To determine the chromatic interval between C and E, for example, start at C and ascend the chromatic scale to E, counting steps along the way: C#, D, D#, E. E is four half-steps higher than C.
+
+Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
+
+![Chromatic steps from C4 to E4.][c4e4]
 
 
 For example, C4–E4 is a generic third, and has a chromatic interval of i4. A third that encompasses four semitones is a *major third* (M3). Note that both generic interval and chromatic interval are necessary to find the specific interval, since there are multiple specific diatonic intervals for each generic interval and for each chromatic interval.
