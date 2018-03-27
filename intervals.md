@@ -16,13 +16,13 @@ We can describe the interval between two notes first by stating its *size*, whic
 
 For example, here are two examples of a **2nd**: both as a melodic interval and a harmonic interval
 
-<iframe src="https://trinket.io/embed/music/34130e0625" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/34130e0625" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 To find the size, begin with the *letter names only*. That is, treat C, C-sharp, and C-flat all as *C* for the time being. Next, count the number of steps (different letters) between the two pitches in question, *including both pitches in your count*. Start from the bottom pitch and count up the musical alphabet to the top pitch. Remember, you must include both pitches of the interval in your count!
 
 Here's an example of a **4th**. The letters are C-D-E-F. We are igoring the F# here when we count the size of this interval.
 
-<iframe src="https://trinket.io/embed/music/4863750dec" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/4863750dec" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### 4.3 Interval Quality
 
@@ -36,13 +36,13 @@ There are five possible interval qualities:
 - minor (m)
 - diminished (d)
 
-Let's start with talking about the diatonic intervals, which are Major and Perfect.
+We will begin with the major and perfect intervals.
 
 ### 4.4 Diatonic Intervals
 
 The term "diatonic interval" describes the interval between two notes, where the top pitch is part of the major scale built on the bottom pitch. For example, here are eight different harmonic intervals all built on the C major scale, with C as the bottom note:
 
-<iframe src="https://trinket.io/embed/music/7388e19043" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/7388e19043" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 The names of the intervals above are as follows, from left to right. These are called **diatonic intervals**:
 
@@ -87,7 +87,7 @@ Perfect Intervals:
 
 Take a look at the example below:
 
-<iframe src="https://trinket.io/embed/music/3fdb48f12d" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/3fdb48f12d" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 All three are examples of a **third**:
 - The first interval, with the notes C - E, yields four half-steps, and therefore is described as a **Major 3rd**.
