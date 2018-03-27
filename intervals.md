@@ -44,7 +44,7 @@ The term "diatonic interval" describes the interval between two notes, where the
 
 <iframe src="https://trinket.io/embed/music/7388e19043" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-The names of the intervals above are as follows, from left to right:
+The names of the intervals above are as follows, from left to right. These are called **diatonic intervals**:
 
 - Perfect Unison (P1)
 - Major 2nd (M2)
@@ -55,12 +55,50 @@ The names of the intervals above are as follows, from left to right:
 - Major 7th (M7)
 - Perfect Octave (P8)
 
+When you count the number of half-steps between each pair of notes, use the piano keyboard to help you. Start with the bottom pitch, and move up by half-steps until you reach the top pitch. In counting the half-steps, make sure that you start with the first pitch as "zero" (i.e. with just one note, there are no half steps), and count up from there.
 
+The number of half steps in each **diatonic interval** is as follows:
 
+| Interval Name | Half-Steps |
+| --: | :-: |
+| Perfect Unison (P1) | 0 |
+| Major 2nd (M2) | 2 |
+| Major 3rd (M3) | 4 |
+| Perfect 4th (P4) | 5 |
+| Perfect 5th (P5) | 7 |
+| Major 6th (M6) | 9 |
+| Major 7th (M7) | 11 |
+| Perfect Octave (P8) | 12 |
 
+We will be referring to these diatonic intervals as we describe *minor, diminished and augmented* intervals. So it's a good idea to memorize the relationship between a given diatonic interval and the number of half-steps that it includes.
 
+### 4.5 Minor, Diminished and Augmented intervals
 
-| Half-Steps | unis. | 2nd | 3rd | 4th | 5th | 6th | 7th | oct. |
+To round out our tools for describing the quality of an interval, we will also use three additional qualities: minor, diminished, and augmented.
+
+Major Intervals:
+- When a major interval is decreased by a half-step, it becomes a **minor interval**.
+- When a minor interval is decreased by a half-step, it comes a **diminished interval**.
+- When a major interval is increased by a half-step, it becomes an **augmented interval**.
+
+Perfect Intervals:
+- When a perfect interval is decreased by a half-step, it becomes a **diminished interval**.
+- When a perfect interval is increased by a half-step, it becomes an **augmented interval**.
+
+Take a look at the example below:
+
+<iframe src="https://trinket.io/embed/music/3fdb48f12d" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+All three are examples of a **third**:
+- The first interval, with the notes C - E, yields four half-steps, and therefore is described as a **Major 3rd**.
+- The second interval, with the notes C - Eb, yields only three half-steps, and therefore is described as a **Minor 3rd**. (Note that this is still a third, because the letter names are the same.)
+- The third interval, with the notes C# - Eb, yeilds only two half-steps (a half-step smaller than a Minor 3rd). This is an example of a **diminished 3rd**.
+
+Remember: the size and quality of an interval depends entirely on how the notes are written on the staff. For example, even though the diminished 3rd in the example above are enharmonically equivalent to C# and D#, since the notes are written as C# and Eb, the interval must be described as a third.
+
+Here is a chart that shows the correspondence between the half-step count, the size, and the resulting quality.
+
+| Half-Steps | Unis. | 2nd | 3rd | 4th | 5th | 6th | 7th | Octave |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | P1 | d2 |  |  |  |  |  |  |
 | 1 | A1 | m2 |  |  |  |  |  |  |
@@ -75,7 +113,4 @@ The names of the intervals above are as follows, from left to right:
 | 10 |  |  |  |  |  | A6 | m7 |  |
 | 11 |  |  |  |  |  |  | M7 | d8 |
 | 12 |  |  |  |  |  |  | A7 | P8 |
-
-
-
 
