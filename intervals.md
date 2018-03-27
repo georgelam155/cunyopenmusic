@@ -60,7 +60,7 @@ When you count the number of half-steps between each pair of notes, use the pian
 The number of half steps in each **diatonic interval** is as follows:
 
 | Interval Name | Half-Steps |
-| --: | :-: |
+| -- | -- |
 | Perfect Unison (P1) | 0 |
 | Major 2nd (M2) | 2 |
 | Major 3rd (M3) | 4 |
@@ -99,7 +99,7 @@ Remember: the size and quality of an interval depends entirely on how the notes 
 Here is a chart that shows the correspondence between the half-step count, the size, and the resulting quality.
 
 | Half-Steps | Unis. | 2nd | 3rd | 4th | 5th | 6th | 7th | Octave |
-| --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | 
 | 0 | P1 | d2 |  |  |  |  |  |  |
 | 1 | A1 | m2 |  |  |  |  |  |  |
 | 2 |  | M2 | d3 |  |  |  |  |  |
