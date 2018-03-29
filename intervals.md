@@ -24,6 +24,8 @@ Here's an example of a **4th**. The letters are C-D-E-F. We are igoring the F# h
 
 <iframe src="https://trinket.io/embed/music/4863750dec" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+[Try this exercise to identify the size of an interval.](https://www.musictheory.net/exercises/generic-interval/brwyry9dbyyyy)
+
 ### 4.3 Interval Quality
 
 Often more specificity is needed than what the interval size can provide. That specificity comes in the form of an interval's *quality*. Combining the *size* and *quality* gives us the full description of that interval.
