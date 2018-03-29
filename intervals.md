@@ -119,8 +119,7 @@ Here is a chart that shows the correspondence between the half-step count, the s
 Given an interval (say, "Minor 3rd") and one pitch, we can determine what the other pitch needs to be, either below or above the given note. Here are the steps to notate a given interval:
 
 1. Write down the number of half steps that are contained in the given interval (e.g. a minor 3rd has three half steps).
-2. Find the **letter name** of the second pitch of the interval by either counting above (if it's an "ascending" interval) or below (if it's a "descending" interval) the given note, according to the given interval size, and using the musical alphabet.
-
+2. Find the **letter name** of the second pitch of the interval by either counting above (if it's an "ascending" interval) or below (if it's a "descending" interval) the given note, according to the given interval size, and using the musical alphabet.  
 For example, if we are trying to find a minor third *above* a C, the letter name of the second pitch must be an "E" (C - D - E). If we're trying to find a minor third *below* a C, the letter name of the second pitch would be an "A" (C - B - A).
 3. Head to the keyboard. Find the given pitch (C in this example), and count the number of half steps that are contained in the given interval in the same direction as step two (e.g. either "ascending" or "descending").
 4. Once you arrive at the note, describe this note in terms of the letter name from step two. In our case, a minor 3rd above C would be E-flat. A minor 3rd below C would be A.
