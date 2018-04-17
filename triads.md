@@ -37,7 +37,7 @@ To find a triad’s quality, identify the *interval* between the root and the ot
 
 ![Four qualities of triads.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads.png "Four qualities of triads.")
 
-Take a listen below (press "play" on the upper-right hand corner) to the four different qualities:
+Take a listen below (press "play" on the upper-left hand corner) to the four different qualities:
 <iframe src="https://trinket.io/embed/music/c84ff09c8a" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### 5.3 Lead-sheet symbols
