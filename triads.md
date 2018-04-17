@@ -10,11 +10,9 @@ Now that we are familiar with the basic building blocks of melodic writing, let'
 
 <!--To tell whether or not a chord is a triad, take the pitch classes present in the chord. Assuming there are three pitch classes (not necessarily three *pitches*), arrange them on the circle of generic scale steps. (By generic, I mean that A-natural, A-flat, and A-sharp are all kinds of A.)
 
-![A triad (A, C, E) on the diatonic circle of steps.][circleOfSteps-triad]-->
-
 To quickly determine whether a three-note chord is a triad, arrange the three notes on the "circle of thirds" below. The pitch classes of a triad will always sit next to each other.
 
-![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triad]
+![A triad (A, C, E) on the diatonic circle of thirds.](http://openmusictheory.com/Graphics/triadsSeventhChords/circleOfThirds-triad.svg "Triad on a diatonic circle of steps")
 
 ### 5.2 Identifying and labeling triads
 
@@ -24,7 +22,7 @@ Triads are identified according to their *root* and *quality*.
 
 To find a triad’s root, arrange the pitch classes on a circle of thirds (mentally or on paper). The root is the *lowest* in the three-pitch clump. Expressed another way, if the circle *ascends* by thirds as it moves clockwise, the root is the “earliest” note (thinking like a literal clock), and the other pitch classes come “later.”
 
-![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triadRTF]
+![A triad (A, C, E) on the diatonic circle of thirds.](http://openmusictheory.com/Graphics/triadsSeventhChords/circleOfThirds-triadRTF.svg "Triad on a diatonic circle of steps")
 
 Once you know the root, you can identify the remaining notes as the *third* of the chord (a third above the root) and the *fifth* of the chord (a fifth above the root).
 
@@ -37,7 +35,7 @@ To find a triad’s quality, identify the *interval* between the root and the ot
 -   diminished triad: m3 and d5 above the root (as in *ti–re–fa*)
 -   augmented triad: M3 and A5 above the root (as in *me–sol–ti*)
 
-![Four qualities of triads.][triads]
+![Four qualities of triads.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads.png "Four qualities of triads.")
 
 ### 5.3 Lead-sheet symbols
 
@@ -54,7 +52,7 @@ Finally, if a pitch other than the chord root is the lowest note in the chord, a
 
 A C-major triad’s lead-sheet symbol is simply **C**. A C-minor triad is **Cm**. A D-sharp-diminished triad with an F-sharp in the bass is **D\#dim/F\#**. And so on.
 
-![Four qualities of triads with lead-sheet symbols.][triads-LS]
+![Four qualities of triads with lead-sheet symbols.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads-LS.png "Lead-sheet symbols.")
 
 ### 5.4 Building a triad
 
