@@ -63,11 +63,3 @@ Next, write a C on the staff (in any comfortable register), then write the other
 ### 5.5 Listening to triads
 
 Each triad quality has its own distinct sound, and to an extent that sound is preserved even when the chord is *inverted* (when the pitches are arranged so that a pitch other than the root is in the lowest voice). As you practice identifying and writing triads, be sure to play the triads, both to check your analysis/writing and to develop the ability to identify chord qualities quickly by ear.
-
-
-[circleOfSteps-triad]: {{ site.url }}/Graphics/triadsSeventhChords/circleOfSteps-triad.png
-[circleOfThirds-triad]: {{ site.url }}http://openmusictheory.com/Graphics/triadsSeventhChords/circleOfThirds-triad.svg
-[circleOfThirds-triadRTF]: {{ site.url }}http://openmusictheory.com/Graphics/triadsSeventhChords/circleOfThirds-triadRTF.svg
-[triads]: {{ site.url }}http://openmusictheory.com/Graphics/triadsSeventhChords/triads.png
-[triads-LS]: {{ site.url }}http://openmusictheory.com/Graphics/triadsSeventhChords/triads-LS.png
-[circleOfThirds-seventhRTFS]: {{ site.url }}/Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.svg
