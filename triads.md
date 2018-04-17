@@ -37,6 +37,9 @@ To find a triad’s quality, identify the *interval* between the root and the ot
 
 ![Four qualities of triads.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads.png "Four qualities of triads.")
 
+Take a listen below (press "play" on the upper-right hand corner) to the four different qualities:
+<iframe src="https://trinket.io/embed/music/c84ff09c8a" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ### 5.3 Lead-sheet symbols
 
 A triad can be summed up by a single symbol, such as a lead-sheet chord symbol. A lead sheet symbol includes information about both root quality, as well as which pitch class occurs in the lowest voice (called the *bass* regardless of who is singing or playing that pitch).
