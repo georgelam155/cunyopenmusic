@@ -30,10 +30,10 @@ Once you know the root, you can identify the remaining notes as the *third* of t
 
 To find a triad’s quality, identify the *interval* between the root and the other members of the chord. There are four qualities of triads that appear in major and minor scales, each with their own characteristic intervals.
 
--   major triad: M3 and P5 above the root (as in *do–mi–sol*)
--   minor triad: m3 and P5 above the root (as in *do–me–sol* or *la–do–mi*)
--   diminished triad: m3 and d5 above the root (as in *ti–re–fa*)
--   augmented triad: M3 and A5 above the root (as in *me–sol–ti*)
+-   major triad: Major 3rd and Perfect 5th above the root (as in *do–mi–sol*)
+-   minor triad: Minor 3rd and Perfect 5th above the root (as in *do–me–sol* or *la–do–mi*)
+-   diminished triad: Minor 3rd and Diminished 5th above the root (as in *ti–re–fa*)
+-   augmented triad: Major 3rd and Augmented 5th above the root (as in *me–sol–ti*)
 
 ![Four qualities of triads.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads.png "Four qualities of triads.")
 
