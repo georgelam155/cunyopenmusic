@@ -40,11 +40,11 @@ To find a triad’s quality, identify the *interval* between the root and the ot
 Take a listen below (press "play" on the upper-left hand corner) to the four different qualities:
 <iframe src="https://trinket.io/embed/music/c84ff09c8a" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-### 5.3 Lead-sheet symbols
+### 5.3 Lead Sheet symbols
 
-A triad can be summed up by a single symbol, such as a lead-sheet chord symbol. A lead sheet symbol includes information about both root quality, as well as which pitch class occurs in the lowest voice (called the *bass* regardless of who is singing or playing that pitch).
+A triad can be summed up by a single symbol, such as a lead sheet chord symbol. A lead sheet symbol includes information about both root quality, as well as which pitch class occurs in the lowest voice (called the *bass* regardless of who is singing or playing that pitch).
 
-A lead-sheet symbol begins with a capital letter (and, if necessary, an accidental) denoting the root of the chord. That letter is followed by information about a chord’s quality:
+A lead sheet symbol begins with a capital letter (and, if necessary, an accidental) denoting the root of the chord. That letter is followed by information about a chord’s quality:
 
 -   major triad: no quality symbol is added
 -   minor triad: lower-case “m”
@@ -53,9 +53,9 @@ A lead-sheet symbol begins with a capital letter (and, if necessary, an accident
 
 Finally, if a pitch other than the chord root is the lowest note in the chord, a slash is added, followed by a capital letter denoting the pitch class in the bass (lowest) voice.
 
-A C-major triad’s lead-sheet symbol is simply **C**. A C-minor triad is **Cm**. A D-sharp-diminished triad with an F-sharp in the bass is **D\#dim/F\#**. And so on.
+A C-major triad’s lead sheet symbol is simply **C**. A C-minor triad is **Cm**. A D-sharp-diminished triad with an F-sharp in the bass is **D\#dim/F\#**. And so on.
 
-![Four qualities of triads with lead-sheet symbols.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads-LS.png "Lead-sheet symbols.")
+![Four qualities of triads with lead sheet symbols.](http://openmusictheory.com/Graphics/triadsSeventhChords/triads-LS.png "Lead sheet symbols.")
 
 ### 5.4 Building a triad
 
