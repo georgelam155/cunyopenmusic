@@ -8,7 +8,7 @@ Now that we are familiar with the basic building blocks of melodic writing, let'
 
 - A **triad** is a three-note chord whose pitches can be arranged in a series of thirds.
 
-<!--To tell whether or not a chord is a triad, take the pitch classes present in the chord. Assuming there are three pitch classes (not necessarily three *pitches*), arrange them on the circle of generic scale steps. (By generic, I mean that A-natural, A-flat, and A-sharp are all kinds of A.)
+<!--To tell whether or not a chord is a triad, take the pitch classes present in the chord. Assuming there are three pitch classes (not necessarily three *pitches*), arrange them on the circle of generic scale steps. (By generic, I mean that A-natural, A-flat, and A-sharp are all kinds of A.)-->
 
 To quickly determine whether a three-note chord is a triad, arrange the three notes on the "circle of thirds" below. The pitch classes of a triad will always sit next to each other.
 
