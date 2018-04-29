@@ -37,3 +37,9 @@ The following are the lead-sheet abbreviations for the different types of sevent
 - minor seventh: m7 (F&#9839;<sup>m7</sup>)	
 - diminished seventh: dim7 or °7 (D<sup>dim7</sup> or D<sup>°7</sup>)	
 - half-diminished seventh: ⦰7 (A<sup>⦰7</sup>)
+
+### 6.4 Conclusions: What's next?
+
+Now that you have completed the six standards in the Fundamentals of Music Theory part of this textbook, you are ready to continue exploring the more advanced topics in music theory, including different types of minor scales (and other scales as well), how to create chord progressions by understanding the principles of harmony, species counterpoint, four-part texture, non-chord tones, and chromaticism.
+
+[Take a look at Open Music Theory](http://openmusictheory.com/) for more information and exercises about these topics - and more! 
