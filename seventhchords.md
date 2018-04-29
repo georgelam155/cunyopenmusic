@@ -4,11 +4,11 @@
 
 We conclude our study of the fundamentals of music theory with one more type of chord - one that includes four notes sounded together.
 
-A **Seventh Chords** is a four-note chord whose pitches can be arranged as thirds. Like with a triad, the pitches belonging to a seventh chord occupy adjacent positions (a four-pitch-class clump) on the circle of thirds.
+A **Seventh Chord** is a four-note chord whose pitches can be arranged as thirds. Like with a triad, the pitches belonging to a seventh chord occupy adjacent positions (a four-pitch-class clump) on the circle of thirds.
 
 Also like a triad, we attribute names to each member of the chord. The four members of a seventh chord are named as: the *root*, *third*, *fifth*, and *seventh*.	
 
-[A seventh chord (A, C, E, G) on the diatonic circle of thirds.][circleOfThirds-seventhRTFS]	
+![A seventh chord (A, C, E, G) on the diatonic circle of thirds.](http://openmusictheory.com/Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.svg "A seventh chord on the diatonic circle of thirds.")
 
 ### 6.2 Types of Seventh Chords
 
@@ -19,6 +19,10 @@ There are five qualities of seventh chords that appear in diatonic music: major 
 - minor seventh: m3, P5, and m7 above the root (or minor triad with a minor seventh)	
 - diminished seventh: m3, d5, and d7 above the root (or diminished triad with a diminished seventh)	
 - half-diminished seventh: m3, d5, and m7 above the root (or diminished triad with a minor seventh)	
+
+[Try your hand at identifying the quality of different seventh chords.](https://www.musictheory.net/exercises/chord/brwy9yoxybbyyyy)
+
+[Here's another exercise where you will construct a given seventh chord quality.](https://www.musictheory.net/exercises/chord-construction/brwy9yoxyyybbyyyn) Note that all the notes have already been arranged for you in thirds. You'll need to add the correct accidentals by using the controls below the staff.
 
 ### 6.3 Lead Sheet Symbols for Seventh Chords
 
