@@ -24,6 +24,10 @@ There are five qualities of seventh chords that appear in diatonic music: major 
 
 [Here's another exercise where you will construct a given seventh chord quality.](https://www.musictheory.net/exercises/chord-construction/brwy9yoxyyybbyyyn) Note that all the notes have already been arranged for you in thirds. You'll need to add the correct accidentals by using the controls below the staff.
 
+Take a listen at the five different types of seventh chords below. They are presented in order: C major seventh, C dominant seventh, C minor seventh, C diminished seventh, and C half-diminished seventh:
+
+<iframe src="https://trinket.io/embed/music/cc6f440391" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ### 6.3 Lead Sheet Symbols for Seventh Chords
 
 The following are the lead-sheet abbreviations for the different types of seventh chords:	
