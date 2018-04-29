@@ -14,11 +14,11 @@ Also like a triad, we attribute names to each member of the chord. The four memb
 
 There are five qualities of seventh chords that appear in diatonic music: major seventh, dominant seventh, minor seventh, diminished seventh (also called fully-diminished), and half-diminished seventh. They are comprised of the following intervals above their roots:	
 
-- major seventh: M3, P5, and M7 above the root (or major triad with a major seventh)	
-- dominant seventh: M3, P5, and m7 above the root (or major triad with a minor seventh)	
-- minor seventh: m3, P5, and m7 above the root (or minor triad with a minor seventh)	
-- diminished seventh: m3, d5, and d7 above the root (or diminished triad with a diminished seventh)	
-- half-diminished seventh: m3, d5, and m7 above the root (or diminished triad with a minor seventh)	
+- **major seventh**: Major 3rd, Perfect 5th, and Major 7th above the root (or major triad with a major seventh)	
+- **dominant seventh**: Major 3rd, Perfect 5th, and Minor 7th above the root (or major triad with a minor seventh)	
+- **minor seventh**: Minor 3rd, Perfect 5th, Minor 7th above the root (or minor triad with a minor seventh)	
+- **diminished seventh**: Minor 3rd, Diminished 5th, and Diminished 7th above the root (or diminished triad with a diminished seventh)	
+- **half-diminished seventh**: Minor3, Diminished 5th, and Minor 7th above the root (or diminished triad with a minor seventh)	
 
 [Try your hand at identifying the quality of different seventh chords.](https://www.musictheory.net/exercises/chord/brwy9yoxybbyyyy)
 
