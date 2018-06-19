@@ -1,14 +1,16 @@
-### 1.1 Notes
+## 1.1 Pitch
+
+### 1.11 Notes
 
 In musical notation, a note indicates a pitch and rhythmic value. A note consists of a *notehead* (either empty or filled in), and optionally can include a *stem*, *beam*, *dot*, or *flag*. 
 
 <img src="http://openmusictheory.com/Graphics/noteillustration.png" width="50%">
 
-### 1.2 Staff
+### 1.12 Staff
 
 Notes alone can't convey their pitch information without being placed on a staff. A *staff* consists of five horizontal lines, evenly spaced. The plural of staff is *staves*.
 
-### 1.3 Clefs
+### 1.13 Clefs
 
 Notes *still* can't convey their pitch information if the staff doesn't include a clef. A clef indicates which pitches are assigned to the lines and spaces on a staff. The two most commonly used clefs are the *treble* and *bass* clef; others that you'll see relatively frequently are *alto* and *tenor* clef. 
 
@@ -22,11 +24,11 @@ Here is the pitch C4 (also known as "Middle C") placed on the treble, bass, alto
 
 [Finally, take a look at this exercise, which removes the "helpers".](https://www.musictheory.net/exercises/note/d8t8tyryyynyyyyy) Can you correctly name the notes?
 
-### 1.4 Grand staff
+### 1.14 Grand staff
 
 The grand staff consists of two staves, one that uses a treble clef, and one that uses a bass clef. The staves are connected by a curly brace. Grand staves are used frequently for notating piano music and other polyphonic instruments.
 
-### 1.5 Octave Designation
+### 1.15 Octave Designation
 
 When specifying a particular pitch precisely, we also need to know the *register*. In fact, if all you have is C-sharp or B-flat, you do not have a pitch, you have a *pitch-class*. **A pitch-class and a register together designate a specific pitch.**
 
@@ -44,7 +46,7 @@ Note that a complete designation contains both the pitch-class name (a letter na
 
 [Take a look at this exercise.](https://www.musictheory.net/exercises/note-construction/oyyayryyqyyyynyyyy) Construct the note requested, and be careful to put the note in the correct octave according to the octave designation.
 
-### 1.6 Ledger lines
+### 1.16 Ledger lines
 
 When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called *ledger lines.* In the example below, From Haydn's Piano Sonata in G (Hob. XVI: 39), Ab5 occurs just above the treble staff in the right hand, and G3 and B3 occur just below the treble staff in the left hand.
 
