@@ -2,7 +2,7 @@
 
 ### 1.31 Types of Meter
 
-Meter describes the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified with two designation types:
+<abbr title="Definition for Meter">Meter</abbr> describes the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified with two designation types:
 * Simple or Compound
 * Duple, Triple, or Quadruple
 
