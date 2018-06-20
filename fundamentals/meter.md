@@ -14,7 +14,7 @@ Meter describes the way multiple pulse layers work together to organize music in
 
 Here is an example of a song in Triple meter. Notice how the counting pulses are organized into groups of threes. In other words, you can count "ONE two three ONE two three ..." along with the song, where "ONE" is the beginning of each group. Each group is called a *bar* or *measure*.
 
-<iframe src="https://trinket.io/embed/music/bf0e3e3ec9" width="60%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/bf0e3e3ec9" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Thus, we can combine these two designation types to form six types of standard meter in Western music:
 
