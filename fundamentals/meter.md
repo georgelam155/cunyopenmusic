@@ -12,11 +12,15 @@
 
 **Duple, Triple, and Quadruple** classifications result from the relationship between the counting pulse and the pulses that are *slower* than the counting pulse. In other words, it is a question of *grouping*: how many counting pulses (or "beats") are grouped into each bar? If counting-pulse beats group into twos, we have *duple meter*; groups of three, *triple meter*; groups of four, *quadruple meter*. Conducting patterns are determined based on these classifications.
 
-Here is an example of a song in Triple meter. Notice how the counting pulses are organized into groups of threes. In other words, you can count "ONE two three ONE two three ..." along with the song, where "ONE" is the beginning of each group. Each group is called a *bar* or *measure*.
+Here is an example of a song in Duple meter. Notice how the counting pulse are organized into groups of twos. In other words, you can count "ONE two ONE two..." along with the song, where "ONE" is the beginning of each group. Each group of pulses are called a "bar" or "measure".
+
+<iframe src="https://trinket.io/embed/music/d470c564ae" width="100%" height="250" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Here is an example of a song in Triple meter. Notice how the counting pulses are organized into groups of threes. In other words, you can count "ONE two three ONE two three ..." along with the song, where "ONE" is the beginning of each group.
 
 <iframe src="https://trinket.io/embed/music/bf0e3e3ec9" width="100%" height="250" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Here is an example of a song in Quadruple meter. Similar to the above song in Triple meter, notice how the counting pulses are now organized into groups of fours. When you play the example, count aloud by saying "ONE two three four" along with the song, where "ONE" is the beginning of each bar.
+Here is an example of a song in Quadruple meter. Similar to the above song in Triple meter, notice how the counting pulses are now organized into groups of fours. When you play the example, count aloud by saying "ONE two three four" along with the song, where "ONE" is the beginning of each bar or measure. **Important**: Quadruple meter and Duple meter are very closely related, in that you can almost always hear a bar of music in Quadruple meter as two bars of Duple meter.
 
 <iframe src="https://trinket.io/embed/music/2ed0e12ff2" width="100%" height="250" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
