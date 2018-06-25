@@ -1,14 +1,24 @@
 ## 1.3 Meter
 
-### 1.31 Types of Meter
-
 <abbr title="Definition for Meter">Meter</abbr> describes the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified with two designation types:
 * Simple or Compound
 * Duple, Triple, or Quadruple
 
+### 1.31 Simple vs. Compound
+
 **Simple and Compound** classifications result from the relationship between the counting pulse and the pulses that are *faster* than the counting pulse. In other words, it is a question of *division*: does each beat divide into two equal parts, or three equal parts? Meters that divide the beat into two equal parts are called *simple meters*; meters that divide the beat into three equal parts are called *compound meters*.
 
+Here is an example of a song in simple meter. Notice that the counting pulse can be evenly divided into groups of two notes (as seen in the first three pulses of the excerpt).
 
+<iframe src="https://trinket.io/embed/music/ebf7380a0f" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Here is an example of a song in compound meter. Notice how, in contrast to the above example, the counting pulse is now divided into groups of three notes each, instead of two.
+
+<iframe src="https://trinket.io/embed/music/f8f071029d" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+
+### 1.32 Duple, Triple and Quadruple
 
 **Duple, Triple, and Quadruple** classifications result from the relationship between the counting pulse and the pulses that are *slower* than the counting pulse. In other words, it is a question of *grouping*: how many counting pulses (or "beats") are grouped into each bar? If counting-pulse beats group into twos, we have *duple meter*; groups of three, *triple meter*; groups of four, *quadruple meter*. Conducting patterns are determined based on these classifications.
 
@@ -35,7 +45,7 @@ Thus, we can combine these two designation types to form six types of standard m
 - compound quadruple (beats group into four, each beat divides into two equal parts)
 
 
-### 1.32 Time Signatures: Top Number
+### 1.34 Time Signatures: Top Number
 
 These types of meters are notated as a *time signature*, placed at the beginning of the music, to the right of the clef.
 
@@ -49,7 +59,7 @@ The *top number* (and the top number only!) describes the type of meter. Followi
 - compound quadruple: 12
 
 
-### 1.33 Time Signatures: Bottom Number
+### 1.35 Time Signatures: Bottom Number
 
 The *bottom number* tells us the type of note that is used to represent the duration of one beat. This duration depends on whether the meter is *simple* or *compound*.
 
