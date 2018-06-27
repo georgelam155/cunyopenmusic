@@ -1,5 +1,7 @@
 ## 2.3 Key Signatures
 
+### 2.31 What is a key signature?
+
 When you're writing in a single key for an extended period of time, it gets tedious to write out the accidentals over and over again. 
 
 Here is a simple melody in D major, without a key signature. 
@@ -12,7 +14,7 @@ Here is the same melody, with the key signature at the beginning of the staff to
 
 <a href="http://openmusictheory.com/Graphics/melodyWithKS.png"><img src="http://openmusictheory.com/Graphics/melodyWithKS.png"></a>
 
-### 2.31 The Circle of Fifths
+### 2.32 The Circle of Fifths
 
 The circle of fifths is an illustration that has been used in music theory pedagogy for hundreds of years. It conveniently summarizes the key signature needed for any key with up to seven flats or sharps. 
 
@@ -26,7 +28,7 @@ For sharp keys (clockwise on the circle of fifths), read the mnemonic device for
 
 For flat keys (counter-clockwise on the circle of fifths), read the mnemonic device backwards. For example, the circle of fifths tells us that the key of A-flat major has four flats. Which flats? Reading backwards: B(attle), E(nds), A(nd), D(own). 
 
-### 2.32 Writing key signatures ###
+### 2.33 Writing key signatures ###
 
 Below is a reference that shows how all of the key signatures should be written on treble, alto, tenor, and bass clefs. 
 
