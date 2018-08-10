@@ -1,5 +1,9 @@
 ## Standard 4: Intervals
 
+Our objectives:
+- Determine the size and quality of a given interval, from perfect unison to perfect octave.
+- Complete a given interval by adding either a note above or below a given note.
+
 ### 4.1 What's an "interval"?
 
 An *interval* is the distance between two pitches, usually measured in two components: 1) the **size**, and 2) the **quality**.
