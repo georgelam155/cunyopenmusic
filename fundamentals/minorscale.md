@@ -1,5 +1,11 @@
 ## Standard 3: The Minor Scale
 
+Our objectives:
+- Create and analyze the minor 3rd interval
+- Find the relative minor for a given major scale (and the relative major for a given minor scale)
+- Write a natural minor scale starting on a given note
+- Write and identify minor key signatures
+
 ### 3.1 The Natural Minor Scale / Aeolian Mode
 
 Remember how we derived the major scale? It consisted of two identical tetrachords (W-W-H) connected together by an additional **W**hole step.
