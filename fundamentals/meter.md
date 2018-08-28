@@ -69,7 +69,10 @@ The *bottom number* tells us the type of note that is used to represent the dura
 
 In *simple meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single beat*. If a simple meter is notated such that each quarter note corresponds to the duration of one beat, the bottom number of the time signature is 4. If a simple meter is notated such that each half note corresponds to a beat, the bottom number of the time signature is 2. If a simple meter is notated such that each eighth note corresponds to a beat, the bottom number of the time signature is 8. And so on. 
 
-In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. If a compound meter is notated such that each dotted-quarter note corresponds to a beat, the eighth note is the division of the beat, and thus the bottom number of the time signature is 8. If a compound meter is notated such that each dotted-half note corresponds to a beat, the quarter note is the division of the beat, and thus the bottom number of the time signature is 4. Note that because **in compound meter, each pulse or beat is divided into three equal parts**, the actual beat is always three times as long as the division note that's indicated by the bottom number.
+In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. 
+
+If a compound meter is notated such that each eighth note corresponds to *a single division of the beat*, that means that each beat actually consists of *three* eighth notes, or, a dotted quarter note. Note that because **in compound meter, each pulse or beat is divided into three equal parts**, the actual beat is always three times as long as the division note that's indicated by the bottom number.
+
 
 To review, for *simple meters*:
 - 2: a half note equals one beat.
@@ -80,4 +83,3 @@ For *compound meters*:
 - 2: a half note equals to *one third* of a beat. Hence, a dotted whole note equals one beat.
 - 4: a quarter note equals to *one third* of a beat. Hence, a dotted half note equals one beat.
 - 8: an eighth note equals to *one third* of a beat. Hence, a dotted quarter note equals one beat.
-
