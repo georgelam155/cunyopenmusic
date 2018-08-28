@@ -1,18 +1,18 @@
 ## 1.3 Meter
 
 <abbr title="Definition for Meter">Meter</abbr> describes the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified with two designation types:
-* Simple or Compound
-* Duple, Triple, or Quadruple
+* Simple or Compound (describes how each pulse is divided)
+* Duple, Triple, or Quadruple (describes how many each measure is divided into pulses)
 
 ### 1.31 Simple vs. Compound
 
-**Simple and Compound** classifications result from the relationship between the counting pulse and the pulses that are *faster* than the counting pulse. In other words, it is a question of *division*: does each beat divide into two equal parts, or three equal parts? Meters that divide the beat into two equal parts are called *simple meters*; meters that divide the beat into three equal parts are called *compound meters*.
+**Simple and Compound** classifications result from the relationship between the counting pulse and the pulses that are *faster* than the counting pulse. In other words, it is a question of *division*: does each pulse generally divide into two equal parts, or three equal parts? Meters that divide the pulse into two equal parts are called *simple meters*; meters that divide the pulse into three equal parts are called *compound meters*.
 
-Here is an example of a song in simple meter. Notice that the counting pulse can be evenly divided into groups of two notes (as seen in the first three pulses of the excerpt).
+Here is an example of a song in simple meter. Notice that the counting pulse can be evenly divided into groups of two notes (as seen in the first three pulses of the excerpt). The beginning of each pulse is marked by an asterisk.
 
 <iframe src="https://trinket.io/embed/music/ebf7380a0f" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Here is an example of a song in compound meter. Notice how, in contrast to the above example, the counting pulse is now divided into groups of three notes each, instead of two.
+Here is an example of a song in compound meter. Notice how, in contrast to the above example, the counting pulse is now divided into groups of three notes each, instead of two. The beginning of each pulse is marked by an asterisk.
 
 <iframe src="https://trinket.io/embed/music/f8f071029d" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -20,9 +20,9 @@ Here is an example of a song in compound meter. Notice how, in contrast to the a
 
 ### 1.32 Duple, Triple and Quadruple
 
-**Duple, Triple, and Quadruple** classifications result from the relationship between the counting pulse and the pulses that are *slower* than the counting pulse. In other words, it is a question of *grouping*: how many counting pulses (or "beats") are grouped into each bar? If counting-pulse beats group into twos, we have *duple meter*; groups of three, *triple meter*; groups of four, *quadruple meter*. Conducting patterns are determined based on these classifications.
+**Duple, Triple, and Quadruple** classifications result from the relationship between the counting pulse and the pulses that are *slower* than the counting pulse. In other words, it is a question of *grouping*: how many counting pulses (or "beats") are grouped into each bar? If the counting pulse can be organized into groups of two, we have *duple meter*; groups of three, *triple meter*; groups of four, *quadruple meter*.
 
-Here is an example of a song in Duple meter. Notice how the counting pulse are organized into groups of twos. In other words, you can count "ONE two ONE two..." along with the song, where "ONE" is the beginning of each group. Each group of pulses are called a "bar" or "measure".
+Here is an example of a song in Duple meter. Notice how the counting pulse are organized into groups of twos. In other words, you can count "ONE two ONE two..." along with the song, where "ONE" is the beginning of each group. Each group of pulses is called a "bar" or "measure".
 
 <iframe src="https://trinket.io/embed/music/d470c564ae" width="100%" height="250" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -37,12 +37,12 @@ Here is an example of a song in Quadruple meter. Similar to the above song in Tr
 
 Thus, we can combine these two designation types to form six types of standard meter in Western music:
 
-- simple duple (beats group into two, each beat divides into two equal parts)
-- simple triple (beats group into three, each beat divides into two equal parts)
-- simple quadruple (beats group into four, each beat divides into two equal parts)
-- compound duple (beats group into two, each beat divides into two equal parts)
-- compound triple (beats group into three, each beat divides into two equal parts)
-- compound quadruple (beats group into four, each beat divides into two equal parts)
+- simple duple (each measure consists of two pulses, each pulse divides into two equal parts)
+- simple triple (each measure consists of three pulses, each pulse divides into two equal parts)
+- simple quadruple (each measure consists of four pulses, each pulse divides into two equal parts)
+- compound duple (each measure consists of two pulses, each pulse divides into three equal parts)
+- compound triple (each measure consists of three pulses, each pulse divides into three equal parts)
+- compound quadruple (each measure consists of four pulses, each pulse divides into three equal parts)
 
 
 ### 1.34 Time Signatures: Top Number
@@ -58,14 +58,18 @@ The *top number* (and the top number only!) describes the type of meter. Followi
 - compound triple: 9
 - compound quadruple: 12
 
+A note about definitions:
+
+- **Pulse** refers to the regular, recurring sense of stress in music. Think of the way that you would tap your foot to a song; or when you can find your regular heartbeat; that's a pulse.
+- **Beat** refers to the duration of time from one pulse to the next. Let's say there is a song that goes along at a speed of 60 pulses per minute. In this case, each beat would last exactly 1 second, or 1/60 of a minute.
 
 ### 1.35 Time Signatures: Bottom Number
 
 The *bottom number* tells us the type of note that is used to represent the duration of one beat. This duration depends on whether the meter is *simple* or *compound*.
 
-In *simple meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single beat*. If a simple meter is notated such that each quarter note corresponds to a beat, the bottom number of the time signature is 4. If a simple meter is notated such that each half note corresponds to a beat, the bottom number of the time signature is 2. If a simple meter is notated such that each eighth note corresponds to a beat, the bottom number of the time signature is 8. And so on. 
+In *simple meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single beat*. If a simple meter is notated such that each quarter note corresponds to the duration of one beat, the bottom number of the time signature is 4. If a simple meter is notated such that each half note corresponds to a beat, the bottom number of the time signature is 2. If a simple meter is notated such that each eighth note corresponds to a beat, the bottom number of the time signature is 8. And so on. 
 
-In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. If a compound meter is notated such that each dotted-quarter note corresponds to a beat, the eighth note is the division of the beat, and thus the bottom number of the time signature is 8. If a compound meter is notated such that each dotted-half note corresponds to a beat, the quarter note is the division of the beat, and thus the bottom number of the time signature is 4. Note that because **the beat is divided into three in a compound meter**, the beat is always three times as long as the division note, and *the beat is always dotted*.
+In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. If a compound meter is notated such that each dotted-quarter note corresponds to a beat, the eighth note is the division of the beat, and thus the bottom number of the time signature is 8. If a compound meter is notated such that each dotted-half note corresponds to a beat, the quarter note is the division of the beat, and thus the bottom number of the time signature is 4. Note that because **in compound meter, each pulse or beat is divided into three equal parts**, the actual beat is always three times as long as the division note that's indicated by the bottom number.
 
 To review, for *simple meters*:
 - 2: a half note equals one beat.
