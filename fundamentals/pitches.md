@@ -6,6 +6,8 @@ The keyboard is great for helping you develop a visual, aural, and tactile under
 
 <img src ="http://openmusictheory.com/Graphics/keyboardlayout-small.png">
 
+[Try this exercise to name the white keys on the piano keyboard](https://www.musictheory.net/exercises/keyboard/y9dyyynyyyy)
+
 ### 2.12 Half Steps and Whole Steps
 
 One of the reasons why we use the keyboard is to help you visualize how pitches are organized on the *chromatic scale*, a series of pitches arranged by ascending or descending half steps.
@@ -33,6 +35,8 @@ Accidentals are used to indicate when a pitch has been raised or lowered by one 
 The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.
 
 <img src ="http://openmusictheory.com/Graphics/accidentals.png" width="50%" height="50%">
+
+[Try this exercise to name all the keys on the piano keyboard](https://www.musictheory.net/exercises/keyboard/9999bynyyyy)
 
 ### 2.14 Enharmonic Equivalence ###
 
