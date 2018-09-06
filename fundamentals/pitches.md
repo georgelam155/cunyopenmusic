@@ -38,6 +38,8 @@ The example below shows the symbols for flat, natural, sharp, double sharp, and 
 
 [Try this exercise to name all the keys on the piano keyboard](https://www.musictheory.net/exercises/keyboard/9999bynyyyy)
 
+[And also try this exercise to review how to name notes on the grand staff by using the correct accidentals](https://www.musictheory.net/exercises/note-construction/oyyayryyyyynynyyyy)
+
 ### 2.14 Enharmonic Equivalence ###
 
 Notice that some of the piano keys have two names (see the illustration below). When two note names share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each piano key could have several names (the note C could also be considered D&#9837;&#9837;, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
