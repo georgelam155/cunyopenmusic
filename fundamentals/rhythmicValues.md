@@ -6,11 +6,17 @@ Rhythm refers to the combination of long and short durations in time. Durations 
 
 <img src="http://openmusictheory.com/Graphics/durations.png" width="60%">
 
+[Take a look at this online lesson for a summary of how these note values relate to one another.](https://www.musictheory.net/lessons/11)
+
+
 ### 1.22 Rests
 
 Rests represent silence in musical notation. For each durational symbol there exists a corresponding rest. 
 
 <img src="http://openmusictheory.com/Graphics/rests.png" width="60%">
+
+[Take a look at this online lesson for a summary of how rests and notes work together.](https://www.musictheory.net/lessons/13)
+
 
 ### 1.23 Dots and ties
 
@@ -26,3 +32,4 @@ In the example below, the duration of the first pitch is longer than a single me
 
 <a href="http://openmusictheory.com/Graphics/ties.png"><img src="http://openmusictheory.com/Graphics/ties.png" width="50%"></a>
 
+[Take a look at this online lesson for a summary of how dots and ties affect the duration of notes.](https://www.musictheory.net/lessons/14)
