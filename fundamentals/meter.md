@@ -83,3 +83,5 @@ For *compound meters*:
 - 2: a half note equals to *one third* of a beat. Hence, a dotted whole note equals one beat.
 - 4: a quarter note equals to *one third* of a beat. Hence, a dotted half note equals one beat.
 - 8: an eighth note equals to *one third* of a beat. Hence, a dotted quarter note equals one beat.
+
+[Take a look at this online lesson to review the difference between meter types.](https://www.musictheory.net/lessons/15)
