@@ -18,6 +18,8 @@ A half step describes the distance between a key and the *next adjacent key* on 
 #### What's a whole step?
 A whole step is equivalent to two half steps. For example, the distance between C and D is a whole step because it includes two half steps (C to C#, C# to D).
 
+[Before you move on to the next section, review this online lesson, which illustrates the half step, whole step, and introduces accidentals.](https://www.musictheory.net/lessons/20)
+
 ### 2.13 Accidentals
 
 Accidentals are used to indicate when a pitch has been raised or lowered by one or two half steps. When described as as words, they are written *after* the note name (e.g. "C-sharp"). When they are placed next to a note on a staff, they are written *before* the note.
