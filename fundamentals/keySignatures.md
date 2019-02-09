@@ -48,7 +48,7 @@ For sharp keys (clockwise on the circle of fifths), the order of sharps will *al
 
 For flat keys (counter-clockwise on the circle of fifths), the order of flats will *always* be B-E-A-D-G-C-F. You can arrive at this order by reading the mnemonic device backwards. For example, if there are four flats in a key signature (as in the key of A-flat major), the four flats will *always* be the first four flats in this pattern when read backwards: B-flat, E-flat, A-flat, D-flat (i.e. **B**attle, **E**nds, **A**nd, **D**own). 
 
-### 2.33 Writing key signatures ###
+### 2.34 Writing key signatures ###
 
 When you need to write a key signature for a given key, remember the following:
 
