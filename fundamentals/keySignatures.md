@@ -56,7 +56,7 @@ When you need to write a key signature for a given key, remember the following:
 2. If it's a key that uses **sharps**, find the note that's a half-step below the key. This will be the final sharp in the key signature. Write all the sharps in order until you reach the final sharp.
 3. If it's a key that uses **flats**, this will be the second-to-last flat in the key signature. Write all the flats in order until you reach this note, and then add one more flat, according to the pattern.
 
-Below is a reference that shows how all of the key signatures should be written on treble and bass clefs. 
+Finally, remember the sharps and flats on a key signature need to be placed on a specific line or space. For example, the "F-sharp" in a sharp key signature in treble clef will *always* be placed on the fifth line. Below is a reference that shows how all of the key signatures should be written on treble and bass clefs.
 
 <a href="http://openmusictheory.com/Graphics/sharpsTreble.png"><img src="http://openmusictheory.com/Graphics/sharpsTreble.png"></a>
 <a href="http://openmusictheory.com/Graphics/sharpsBass.png"><img src="http://openmusictheory.com/Graphics/sharpsBass.png"></a>
