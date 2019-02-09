@@ -24,13 +24,13 @@ When you see a key signature in notated music, it will always be placed at the b
 
 Here is an easy way to identify the major key of a piece of music by just looking at the key signature:
 
-* For **sharp** key signatures, take a look at the final sharp in the signature. When you raise the pitch one half-step above the pitch indicated by the final sharp, you will arrive at the major key associated by this signature.
+* For **sharp** key signatures, take a look at the final sharp in the signature. When you raise the pitch one half-step above the pitch indicated by the final sharp, you will arrive at the major key associated with this signature.
 
-* For **flat** key signtures, take a look at the second-to-last flat in the signature, which indicates the major key associated with this signature. If there is only one flat, it is the key of F major.
+* For **flat** key signatures, take a look at the second-to-last flat, which indicates the major key associated with this signature. If there is only one flat, you'll need to remember that this is the key of F major.
 
-Remember: there are 15 major keys in music, and each key is associated with a unique key signature. These signatures tell you 1) the major key that the piece uses; and 2) which sharps or flats are associated with that key.
+Remember: there is a total of 15 major scales, and each major scale is associated with a unique key signature. These signatures tell you 1) the major scale that the piece uses; and 2) which sharps or flats are associated with that major scale.
 
-[Review this lesson that introduces key signatures.](https://www.musictheory.net/lessons/24) Note that the lesson talks about a minor scale (which will be covered in Standard 3), but the concept of key signatures is the same for both major and minor scales.
+[Review this lesson that introduces key signatures.](https://www.musictheory.net/lessons/24) Note that the lesson refers to a minor scale (which will be covered in Standard 3), but the concept of key signatures is the same for both major and minor scales.
 
 [Try your hand at identifying these key signatures.](https://www.musictheory.net/exercises/keysig/d999yydyyyyy)
 
