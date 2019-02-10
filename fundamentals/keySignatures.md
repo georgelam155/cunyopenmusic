@@ -53,8 +53,8 @@ For flat keys (counter-clockwise on the circle of fifths), the order of flats wi
 When you need to write a key signature for a given key, remember the following:
 
 1. Identify the major scale (or key) that you are trying to find the key signature for.
-2. If it's a scale that uses **sharps**, find the note that's a half-step below the key. This will be the final sharp in the key signature. Write all the sharps in order until you reach the final sharp.
-3. If it's a scale that uses **flats**, this will be the second-to-last flat in the key signature. Write all the flats in order until you reach this note, and then add one more flat, according to the pattern.
+2. If it's a scale that uses **sharps**, find the note that's a half-step below the key. This will be the final sharp in the key signature. Write all the sharps in order (F-C-G-D-A-E-B) until you reach the final sharp.
+3. If it's a scale that uses **flats**, the key will be the second-to-last flat in the key signature. To find the key signature, write all the flats in order until you reach the key, and then add one more flat according to the pattern (B-E-A-D-G-C-F).
 
 Finally, remember the sharps and flats on a key signature need to be placed on a specific line or space. For example, the "F-sharp" in a sharp key signature in treble clef will *always* be placed on the fifth line. Below is a reference that shows how all of the key signatures should be written on treble and bass clefs.
 
