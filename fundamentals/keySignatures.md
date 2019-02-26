@@ -20,7 +20,7 @@ What do key signatures look like? Here is an example of seven different key sign
 
 <a href="http://openmusictheory.com/Graphics/sharpsTreble.png"><img src="http://openmusictheory.com/Graphics/sharpsTreble.png"></a>
 
-When you see a key signature in notated music, it will always be placed at the beginning of each line of staff (also known as a "system"). The key signature is always placed directly to the left of the clef.
+When you see a key signature in notated music, it will always be placed at the beginning of each line of staff (also known as a "system"). The key signature is always placed directly to the right of the clef.
 
 Here is an easy way to identify the major key of a piece of music by just looking at the key signature:
 
