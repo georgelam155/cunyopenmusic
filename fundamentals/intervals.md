@@ -128,6 +128,7 @@ Your turn:
 * [Identify these intervals.](https://www.musictheory.net/exercises/interval/drwyryyhxyynnyyyyk) (major and perfect intervals only.)
 * [Now, identify these intervals.](https://www.musictheory.net/exercises/interval/drwyry99999nnyyyyk) (all intervals)
 
+Having trouble? Use this [Interval Calculator](https://www.musictheory.net/calculators/interval) to help reveal the process of identifying an interval. Enter the two notes in question, and see the interval's size and quality.
 
 ### 4.6 Notating Intervals
 
