@@ -28,7 +28,9 @@ Here's an example of a **4th**. The letters are C-D-E-F. We are igoring the F# h
 
 <iframe src="https://trinket.io/embed/music/4863750dec" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-[Try this exercise to identify the size of an interval.](https://www.musictheory.net/exercises/generic-interval/brwyry9dbyyyy)
+[Review this interactive demonstration on counting interval size.](https://www.musictheory.net/lessons/30) Note: in this demonstration, "generic interval" means the same thing as interval size.
+
+Your Turn: [Try this exercise to identify the size of an interval.](https://www.musictheory.net/exercises/generic-interval/brwyry9dbyyyy)
 
 ### 4.3 Interval Quality
 
@@ -119,6 +121,13 @@ Here is a chart that shows the correspondence between the half-step count, the s
 | 10 |  |  |  |  |  | A6 | m7 |  |
 | 11 |  |  |  |  |  |  | M7 | d8 |
 | 12 |  |  |  |  |  |  | A7 | P8 |
+
+[Take a look at this interactive demonstration on combining interval size and interval quality.](https://www.musictheory.net/lessons/31)
+
+Your turn:
+* [Identify these intervals.](https://www.musictheory.net/exercises/interval/drwyryyhxyynnyyyyk) (major and perfect intervals only.)
+* [Now, identify these intervals.](https://www.musictheory.net/exercises/interval/drwyry99999nnyyyyk) (all intervals)
+
 
 ### 4.6 Notating Intervals
 
